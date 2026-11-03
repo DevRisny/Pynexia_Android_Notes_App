@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inkwell</string>
+    <string name="new_note">New note</string>
+    <string name="search_hint">Search notes</string>
+    <string name="empty_title">Your ideas live here</string>
+    <string name="empty_body">Tap New note to write your first one. Long-press a note to pin it, swipe to delete.</string>
+    <string name="no_results_title">No matching notes</string>
+    <string name="no_results_body">Try another word from the title or text.</string>
+    <string name="title_hint">Title</string>
+    <string name="content_hint">Start writing…</string>
+    <string name="pin">Pin</string>
+    <string name="unpin">Unpin</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="back">Back</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="pinned">Pinned</string>
+    <string name="unpinned">Unpinned</string>
+    <string name="empty_discarded">Empty note discarded</string>
+    <string name="pinned_header">Pinned</string>
+    <string name="colour_label">%1$s colour</string>
+    <plurals name="note_count">
+        <item quantity="one">%d note</item>
+        <item quantity="other">%d notes</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="one">%d word</item>
+        <item quantity="other">%d words</item>
+    </plurals>
+</resources>

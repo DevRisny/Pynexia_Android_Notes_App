@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#FF1D1B2E</color>
+    <color name="ink_soft">#FF5B5875</color>
+    <color name="ink_faint">#FF625F7B</color>
+    <color name="bg">#FFF7F6FB</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="line">#FFE7E4F0</color>
+    <color name="brand">#FF6A4CFF</color>
+    <color name="brand_dark">#FF5233E6</color>
+    <color name="brand_wash">#FFEEEAFF</color>
+    <color name="danger">#FFE5484D</color>
+    <color name="launcher_bg">#FF6A4CFF</color>
+</resources>
